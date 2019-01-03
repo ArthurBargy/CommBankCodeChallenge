@@ -1,0 +1,25 @@
+<parameters>
+
+	<function id="CountAverageLengthOfWordsBeginningWith">
+		<param paramName="source">default</param>
+		<param paramName="firstLetter">a</param>
+	</function>
+	
+	<function id="CountSpecialLetterInWordsBeginningWith">
+		<param paramName="source">default</param>
+		<param paramName="firstLetter">b</param>
+		<param paramName="letterToCount">e</param>
+	</function>
+	
+	<function id="LongestWordBeginningWith">
+		<param paramName="source">default</param>
+		<param paramName="firstLetters">a, b, c</param>
+	</function>
+	
+	<function id="CountSequenceStartingByFirstLetterAndContinuingWith">
+		<param paramName="source">default</param>
+		<param paramName="firstLetter">c</param>
+		<param paramName="secondLetter">a</param>
+	</function>
+	
+</parameters>
